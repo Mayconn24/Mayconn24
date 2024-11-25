@@ -1,4 +1,8 @@
-## isso ai
+## oi sou o maycon
+
+. Estou cursando o ensino médio no ccm ivan
+. Estou desenvolvendo projetos e compartilhando projetos 
+. Cursando linguagem JavaScript
 
 <!--
 **Mayconn24/Mayconn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
