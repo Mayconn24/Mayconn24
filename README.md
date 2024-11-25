@@ -1,6 +1,6 @@
 ## oi sou o maycon
 
-. Estou cursando o ensino médio no ccm ivan
+. Estou cursando o ensino médio no CCM Ivan
 . Estou desenvolvendo projetos e compartilhando projetos 
 . Cursando linguagem JavaScript
 
